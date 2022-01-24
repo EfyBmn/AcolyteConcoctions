@@ -1,0 +1,369 @@
+.navbar{
+    background-color: rgba(0,0,0,0.7) !important;
+    /* [disabled]margin-top: 100px; */
+    /* [disabled]top: -60%; */
+    /* [disabled]min-height: 200px; */
+    margin-left: 0px;
+	margin-right: -20px;
+    font-size: medium;
+/*	bottom:80px;*/
+}
+.header {
+    background-color: #000000;
+
+}
+
+.nav-item{
+    color: #FFFFFF;
+    font-family: astloch;
+    font-style: normal;
+    font-weight: 700;
+    text-shadow: 0px 0px 10px #FFFFFF;
+/*    margin-left: 49px;*/
+    /* [disabled]margin-right: 35px; */
+	
+    font-size: 35px;
+    text-align: center;
+    padding-left: 20px;
+}
+.nav-div {
+
+/*  margin-top: 0px;*/
+/* bottom: 30px;*/
+/*left:-20px;*/
+}
+
+
+.nav-logo{
+    margin-left: 23px;
+}
+
+
+.about-section{
+	padding-top:40px;
+/*    background-color: #1b2a23;*/
+/*    height: 100%;*/
+    margin-top: -107px;
+/*    position: static;*/
+    background-image: url(../images/1x/1x/uni-background3.png);
+    background-repeat: no-repeat;
+	background-size: cover;
+    padding-bottom: 2px;
+	
+}
+
+/*
+.title {
+    margin-top: 130px;
+    color: #FFFFFF;
+    font-family: astloch;
+
+	
+    font-weight: 700;
+    text-shadow: 0px 0px 22px #FFFFFF;
+    font-size: 50px;
+}
+*/
+
+
+.section-title {
+    font-family: astloch;
+    font-style: normal;
+    font-weight: 400;
+    color: #FFFFFF;
+    text-shadow: 0px 0px 10px #FFFEFE;
+    font-size: 60px;
+}
+.title-section {
+    padding-top: 150px;
+
+}
+
+
+.right-logo {
+    padding-left: 0px;
+    float: right;
+    clear: right;
+
+
+
+}
+.left-logo {
+    float: left;
+}
+.column-double {
+    opacity: 0.9;
+
+
+}
+.about-content {
+    margin-top: 70px;
+}
+.about-text {
+    color: #FFFFFF;
+    font-family: meddon;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    /* [disabled]margin-left: -100px; */
+    text-shadow: 0px 0px 6px #FFFFFF;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+
+.dropdown-item {
+    font-weight: 700;
+    color: rgba(34,33,33,1.00);
+    font-size: 23px;
+
+}
+.dropdown-menu {
+    background-color: rgba(255,255,255,0.40);
+}
+
+.features-section {
+    background-image: url(../images/1x/logo-background-100.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 50px;
+}
+.features-item-l {
+    background-color: rgba(0,0,0,0.3);
+    z-index: 1;
+}
+.features-item-r {
+    background-color: rgba(0,0,0,0.3);
+    /* [disabled]right: 30px; */
+}
+
+
+.column-right {
+    right: 20px;
+}
+.column-left {
+    z-index: 2;
+    left: -35px;
+}
+.features-item-c {
+    background-color: rgba(0,0,0,0.3);
+    /* [disabled]margin-left: 5px; */
+    /* [disabled]margin-right: 5px; */
+/*    padding-left: 15px;*/
+    /* [disabled]padding-right: 15px; */
+}
+.myicon {
+    padding-top: 70px;
+}
+.contact-us {
+    background-color: #1B2A23;
+    background-image: url(../images/1x/1x/uni-background_5.png);
+    background-repeat: no-repeat;
+	background-size: cover;
+	height:700px;
+}
+
+.feature-text {
+    color: #FFFFFF;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    font-family: meddon;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    padding-top: 30px;
+	text-shadow: 0px 0px 6px rgba(255,255,255,0.6);
+}
+/*
+.footer-logo {
+    padding-top: 100px;
+}
+*/
+.footer-text {
+    text-align: center;
+    color: #FFFFFF;
+    font-family: astloch;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+}
+.contact-text {
+    font-size: 45px;
+    text-shadow: 0px 0px 6px #FFFFFF;
+}
+.footer-second-text {
+    color: #FFFFFF;
+    text-align: center;
+    font-family: Centaur;
+    font-size: 25px;
+    margin-top: -5px;
+}
+.footer {
+    font-family: Centaur;
+    color: #F7F7F7;
+    padding-top: 70px;
+}
+
+
+.insta-logo {
+    margin-left: -20px;
+    left: -20px;
+
+}
+.arrow-icon {
+    margin-top: -20px;
+}
+.email {
+    margin-top: -10px;
+}
+
+/*============ PRODUCT PAGES ===============*/
+
+.white-background {
+    background-color: rgba(255,255,255,0.30);
+}
+
+.black-background {
+    background-color: rgba(0,0,0,0.4);
+}
+.soap-item {
+    text-align: center;
+    font-family: meddon;
+    font-style: normal;
+    font-weight: 400;
+    color: rgba(255,255,255,1.00);
+    font-size: 23px;
+    /* [disabled]padding-top: 36px; */
+    /* [disabled]height: 360px; */
+}
+.prod-img {
+    padding-top: 10px;
+    /* [disabled]margin-top: -65px; */
+    padding-bottom: 10px;
+
+
+}
+
+
+
+.nav-div-prod {
+    top: -40px;
+    /* [disabled]float: left; */
+    opacity: 1;
+
+}
+.navbar-prod {
+    background-color: rgba(0,0,0,1.00);
+}
+
+
+
+
+.product-title {
+    color: #FFF7F7;
+    font-family: astloch;
+    font-style: normal;
+    font-weight: 400;
+    color: #FFFFFF;
+    text-shadow: 0px 0px 10px #FFFEFE;
+    font-size: 65px;
+    margin-top: -20px;
+}
+
+.product-items {
+    margin-top: 35px;
+    /* [disabled]padding-top: 20px; */
+}
+
+
+
+
+.prod-item{
+    transition: transform .2s;
+    padding-bottom: 10px;
+}
+
+.prod-item:hover {
+    transform: scale(1.1);
+    text-shadow: 0px 0px 6px rgba(255,255,255,1.00);
+}
+.product-title:hover{
+    text-shadow: 0px 0px 20px rgba(255,255,255,1.00);
+}
+.feature-icon{
+	transition: transform .2s;
+}
+
+.feature-icon:hover{
+    scale:1.1;
+}
+
+.nav-item:hover{
+    color: rgba(255,255,255,1.00);
+    text-shadow: 0px 0px 5px rgba(255,255,255,1.00);
+}
+
+.dropdown-item:hover{
+/*    font-size: 20px;*/
+    background-color: rgba(255,255,255,0.1);
+    -webkit-box-shadow: inset 0px 0px;
+    box-shadow: inset 0px 0px;
+    text-shadow: 0px 0px;
+    color: rgba(255,255,255,1.00);
+	
+}
+.mail-link {
+    color: rgba(255,255,255,1.00);
+    font-size: 27px;
+}
+.mail-link:hover {
+    color: rgba(255,255,255,1.00);
+
+}
+
+
+.soap-item-sm {
+    font-size: 18px;
+}
+.product-footer {
+    background-color: rgba(0,0,0,0.3);
+}
+.soap-item-s {
+    font-size: 21px;
+}
+.row .col-xl-12 .header-img {
+}
+.header-img {
+    background-image: url(../images/Artboard%201-100.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: contain;
+    background-attachment: scroll;
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width:999px){
+	div.no-display{
+		display: none;
+	}
+
+
+	
+	
+}
+
+@media screen and (max-width:1200px){
+	div.no-display-column{
+		display: none;
+	}
+	
+	
+}
